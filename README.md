@@ -18,11 +18,11 @@ A aplicação consiste em um chat real time, utilizando a tecnologia de Websocke
 
 Em dependências e tecnologias, as principais utilizadas no projeto, são:
 
--Express
--Sass/css 
--EJS(view engine)
--Express-validator
--Consign
+- Express
+- Sass/css 
+- EJS(view engine)
+- Express-validator
+- Consign
 
 ## ⚽ Rodando
 
