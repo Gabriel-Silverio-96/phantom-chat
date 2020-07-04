@@ -1,0 +1,120 @@
+.phantom_chat_area {
+    @extend .phantom_chat;
+    border: 1px solid;
+    border-color: $thirdColor;
+    border-radius: $borderRadius;
+    width: 750px;
+    position: relative;
+
+    img {
+        margin-bottom: 15px;
+    }
+}
+
+.dialog_area {
+    height: 70%;
+    overflow-y: auto;
+
+    .dialog {
+        margin: 15px 0;
+        font-size: 12px;
+
+        .dialog_user {
+            display: flex;
+            span {
+                color: $secondColor;
+                margin-right: 14px;
+            }
+            
+            .color_message {
+                color: $colorMessage;
+            }
+        }
+    }
+}
+
+.header_chat {
+    display: flex;
+    justify-content: space-between;
+    
+    .user_online {
+        &:hover > .box_user_online {
+            display: block;
+        }
+    }
+
+    .btn-online {
+        .icon-arrow {
+            width:18px;
+        }   
+
+        &:hover > .icon-arrow {                                  
+            animation: rotate 0.5s forwards;
+
+            @keyframes rotate {
+                from {
+                    transform: rotate(0deg);
+                }
+
+                to {
+                    transform: rotate(180deg);
+                }                
+            }
+        }
+    }
+}
+
+.box_user_online {
+    margin-top: 15px;
+    border: 1px solid;
+    border-color: $thirdColor;
+    border-radius: $borderRadius;
+    padding: 17px 12px 10px;
+    position: absolute;
+    right: 25px;
+    width: 16%;
+    display: none;
+
+    ul {
+        list-style: none;
+        text-align: left;
+        color: $secondColor;
+        margin-left: 10px;
+
+        li {
+            margin-bottom: 12px;
+        }
+    }
+}
+
+.message_area_send {
+    display: flex;
+    position: absolute;    
+    bottom: 25px;
+
+    .input_phantom  {
+        width: 600px;
+    }
+
+    button {
+        margin-left: 25px;
+    }
+}
+
+//Responsive
+@media (max-width: 856px) {
+    .message_area_send .input_phantom {
+        width: auto;
+    }
+
+    .phantom_chat_area {        
+        margin-right: 25px;
+        margin-left: 25px;
+    }
+}
+
+@media (max-width: 506px) {
+    .message_area_send button {        
+        width: auto;        
+    }
+}

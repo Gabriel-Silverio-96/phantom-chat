@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="488" height="118" viewBox="0 0 488 118">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1.188" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-18" y2="1" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-35" y2="1.188" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-36" x1="0.5" x2="0.5" y2="1.297" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#15ff0d"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <clipPath id="clip-logo-phantom-chat">
+      <rect width="488" height="118"/>
+    </clipPath>
+  </defs>
+  <g id="logo-phantom-chat" clip-path="url(#clip-logo-phantom-chat)">
+    <g id="Group_12" data-name="Group 12" transform="translate(-442 -228)">
+      <g id="Group_8" data-name="Group 8" transform="translate(20)">
+        <path id="Path_4" data-name="Path 4" d="M-2454.256,543.367" transform="translate(-1596.112 794.665) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_21" data-name="Rectangle 21" width="2.068" height="19.491" transform="translate(859.068 252.032) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_22" data-name="Rectangle 22" width="2.068" height="2.271" transform="translate(861.135 254.303) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_29" data-name="Rectangle 29" width="2.068" height="2.271" transform="translate(879.368 262.629) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_28" data-name="Rectangle 28" width="2.068" height="2.271" transform="translate(877.301 264.9) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_23" data-name="Rectangle 23" width="2.068" height="2.271" transform="translate(868.842 269) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_24" data-name="Rectangle 24" width="2.068" height="4.163" transform="translate(870.91 264.9) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_25" data-name="Rectangle 25" width="6.391" height="2.271" transform="translate(875.233 266.918) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_30" data-name="Rectangle 30" width="2.068" height="3.911" transform="translate(881.436 260.358) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_26" data-name="Rectangle 26" width="2.068" height="3.911" transform="translate(873.165 260.358) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_34" data-name="Rectangle 34" width="2.068" height="2.271" transform="translate(904.932 254.303) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_36" data-name="Rectangle 36" width="2.068" height="19.491" transform="translate(907 252.032) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_35" data-name="Rectangle 35" width="2.068" height="2.271" transform="translate(904.932 232.542) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_32" data-name="Rectangle 32" width="2.068" height="2.271" transform="translate(861.135 232.542) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_33" data-name="Rectangle 33" width="41.729" height="2.271" transform="translate(902.865 230.271) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_27" data-name="Rectangle 27" width="12.03" height="2.271" transform="translate(873.165 256.574) rotate(180)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="23.496" height="2.271" transform="translate(902.865 256.574) rotate(180)" fill="url(#linear-gradient)"/>
+        <text id="Buuu" transform="translate(867 245)" fill="#fff" font-size="8" font-family="Dogica" letter-spacing="-0.1em"><tspan x="0" y="0">Buuu</tspan></text>
+      </g>
+      <path id="Path_4-2" data-name="Path 4" d="M-2454.256,543.367" transform="translate(2963.089 -229.068)" fill="url(#linear-gradient-18)"/>
+      <g id="Group_10" data-name="Group 10" transform="translate(-17)">
+        <rect id="Rectangle_21-2" data-name="Rectangle 21" width="2.109" height="19.491" transform="translate(507.891 295.542)" fill="url(#linear-gradient-18)"/>
+        <g id="Group_9" data-name="Group 9" transform="translate(0 -1)">
+          <rect id="Rectangle_22-2" data-name="Rectangle 22" width="2.109" height="2.271" transform="translate(505.782 315.032)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_29-2" data-name="Rectangle 29" width="2.109" height="2.271" transform="translate(487.184 323.358)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_28-2" data-name="Rectangle 28" width="2.109" height="2.271" transform="translate(489.293 325.629)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_23-2" data-name="Rectangle 23" width="2.109" height="2.271" transform="translate(497.921 329.729)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_24-2" data-name="Rectangle 24" width="2.109" height="4.163" transform="translate(495.812 323.737)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_25-2" data-name="Rectangle 25" width="6.519" height="2.271" transform="translate(491.402 327.648)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_30-2" data-name="Rectangle 30" width="2.109" height="3.911" transform="translate(485.075 319.448)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_26-2" data-name="Rectangle 26" width="2.109" height="3.911" transform="translate(493.511 319.448)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_34-2" data-name="Rectangle 34" width="2.109" height="2.271" transform="translate(461.109 315.032)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_36-2" data-name="Rectangle 36" width="2.109" height="19.491" transform="translate(459 295.542)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_35-2" data-name="Rectangle 35" width="2.109" height="2.271" transform="translate(461.109 293.271)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_32-2" data-name="Rectangle 32" width="2.109" height="2.271" transform="translate(505.782 293.271)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_33-2" data-name="Rectangle 33" width="42.564" height="2.271" transform="translate(463.218 291)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_27-2" data-name="Rectangle 27" width="12.271" height="2.271" transform="translate(493.511 317.303)" fill="url(#linear-gradient-18)"/>
+          <rect id="Rectangle_31-2" data-name="Rectangle 31" width="23.966" height="2.271" transform="translate(463.218 317.303)" fill="url(#linear-gradient-18)"/>
+          <text id="Hi" transform="translate(470 308)" fill="#fff" font-size="8" font-family="Dogica" letter-spacing="-0.1em"><tspan x="0" y="0">Hi</tspan></text>
+        </g>
+      </g>
+      <path id="Path_11" data-name="Path 11" d="M7-49H42v7h7v14H42v7H21V0H7Zm14,7v14H35V-42Zm36.4-7h14v21h14V-49h14V0h-14V-21h-14V0h-14Zm57.4,0h28v7h7V0h-14V-14h-14V0h-14V-42h7Zm7,7v21h14V-42Zm36.4-7h14v7h7v7h7V-49h14V0h-14V-21h-7v-7h-7V0h-14Zm50.4,0h42v7h-14V0h-14V-42h-14ZM266-49h28v7h7V-7h-7V0H266V-7h-7V-42h7Zm7,7V-7h14V-42Zm36.4-7h14v14h7v7h7v-7h7V-49h14V0h-14V-21h-21V0h-14Z" transform="translate(505 306)" fill="url(#linear-gradient-35)"/>
+      <path id="Path_2" data-name="Path 2" d="M9.5-33.25h19v4.75h4.75v4.75h-9.5V-28.5h-9.5V-4.75h9.5V-9.5h9.5v4.75H28.5V0H9.5V-4.75H4.75V-28.5H9.5Zm29.45,0h9.5V-19h9.5V-33.25h9.5V0h-9.5V-14.25h-9.5V0h-9.5Zm38.95,0h19v4.75h4.75V0h-9.5V-9.5h-9.5V0h-9.5V-28.5H77.9Zm4.75,4.75v14.25h9.5V-28.5Zm24.7-4.75h28.5v4.75h-9.5V0h-9.5V-28.5h-9.5Z" transform="translate(617.25 342.875)" fill="url(#linear-gradient-36)"/>
+    </g>
+  </g>
+</svg>

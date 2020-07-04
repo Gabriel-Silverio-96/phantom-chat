@@ -1,0 +1,76 @@
+.login {
+    display: flex;
+    margin: auto;
+    height: -webkit-fill-available;
+}
+
+.phantom_chat {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 25px;
+
+    .logo {
+        transform: translateY(0px);
+        animation: float 3s ease-in-out infinite;  
+        margin-bottom: 45px;      
+
+        @keyframes float {
+            0% {
+                transform: translateY(0px);
+            }
+            
+            50% {
+                transform: translateY(-20px);
+            }
+            
+            100% {
+                transform: translateY(0px);
+            }
+        
+        }
+    }
+}
+
+input, button {
+    outline: none;
+}
+
+.input_phantom {
+    border: 1px solid;
+    border-color: $thirdColor;
+    border-radius: $borderRadius;
+    width: -webkit-fill-available; //350
+    height: 40px;
+    padding: 2px 10px;
+    background-color: transparent;
+    @extend .input_phantom::placeholder;
+
+    &::placeholder {
+        font-family: "dogica";
+        letter-spacing: -2.5px;
+        color: $secondColor;
+    }
+}
+
+.form_login {
+    display: flex;
+    flex-direction: column;
+
+    input {        
+        margin: 0 auto 25px;
+    }
+
+    button {
+        margin: auto;
+    }
+
+    span {
+        color: red;
+        margin-bottom: 10px;
+        text-align: left;
+        text-indent: 15px;
+    }
+}
+

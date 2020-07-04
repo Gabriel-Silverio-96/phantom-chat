@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phantom Chat</title>
+    <link rel="shortcut icon" href="img/favicon.png">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="login">
+    <div class="phantom_chat_area">
+        <div class="header_chat">
+            <img src="img/logo-phantom-chat-2.svg" class="img_resp" alt="Logo Phantom chat" width="125px">
+            <div class="user_online">
+                <button class="btn btn-outline-first btn-online">Online
+                    <img class="icon-arrow" src="img/icons/icon-arrow.svg" alt="" srcset="">
+                </button>
+
+                <div class="box_user_online" style="color: red;">
+                    <ul id="users_online">                       
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="dialog_area">           
+        </div>
+        <div class="message_area_send">
+            <input type="hidden" id="nickname" value="<%= Object.values(nickname) %>">
+            <input type="hidden" id="numberHidden" value="0">
+            <input class="input_phantom" type="text" name="message" id="message" placeholder="> My message">
+            <button class="btn btn-first" id="send" type="submit">Send</button>
+        </div>
+    </div>    
+    <script src="js/main.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="js/phantomSocket.js"></script> 
+</body>
+
+</html>

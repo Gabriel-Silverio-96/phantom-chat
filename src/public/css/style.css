@@ -1,0 +1,185 @@
+.login {
+  display: flex;
+  margin: auto;
+  height: -webkit-fill-available; }
+
+.phantom_chat, .phantom_chat_area {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 25px; }
+  .phantom_chat .logo, .phantom_chat_area .logo {
+    transform: translateY(0px);
+    animation: float 3s ease-in-out infinite;
+    margin-bottom: 45px; }
+
+@keyframes float {
+  0% {
+    transform: translateY(0px); }
+  50% {
+    transform: translateY(-20px); }
+  100% {
+    transform: translateY(0px); } }
+
+input, button {
+  outline: none; }
+
+.input_phantom {
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 10px;
+  width: -webkit-fill-available;
+  height: 40px;
+  padding: 2px 10px;
+  background-color: transparent; }
+  .input_phantom::placeholder, .input_phantom, .btn {
+    font-family: "dogica";
+    letter-spacing: -2.5px;
+    color: #fff; }
+
+.form_login {
+  display: flex;
+  flex-direction: column; }
+  .form_login input {
+    margin: 0 auto 25px; }
+  .form_login button {
+    margin: auto; }
+  .form_login span {
+    color: red;
+    margin-bottom: 10px;
+    text-align: left;
+    text-indent: 15px; }
+
+.phantom_chat_area {
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 10px;
+  width: 750px;
+  position: relative; }
+  .phantom_chat_area img {
+    margin-bottom: 15px; }
+
+.dialog_area {
+  height: 70%;
+  overflow-y: auto; }
+  .dialog_area .dialog {
+    margin: 15px 0;
+    font-size: 12px; }
+    .dialog_area .dialog .dialog_user {
+      display: flex; }
+      .dialog_area .dialog .dialog_user span {
+        color: #fff;
+        margin-right: 14px; }
+      .dialog_area .dialog .dialog_user .color_message {
+        color: #FF7BC1; }
+
+.header_chat {
+  display: flex;
+  justify-content: space-between; }
+  .header_chat .user_online:hover > .box_user_online {
+    display: block; }
+  .header_chat .btn-online .icon-arrow {
+    width: 18px; }
+  .header_chat .btn-online:hover > .icon-arrow {
+    animation: rotate 0.5s forwards; }
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(180deg); } }
+
+.box_user_online {
+  margin-top: 15px;
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 10px;
+  padding: 17px 12px 10px;
+  position: absolute;
+  right: 25px;
+  width: 16%;
+  display: none; }
+  .box_user_online ul {
+    list-style: none;
+    text-align: left;
+    color: #fff;
+    margin-left: 10px; }
+    .box_user_online ul li {
+      margin-bottom: 12px; }
+
+.message_area_send {
+  display: flex;
+  position: absolute;
+  bottom: 25px; }
+  .message_area_send .input_phantom {
+    width: 600px; }
+  .message_area_send button {
+    margin-left: 25px; }
+
+@media (max-width: 856px) {
+  .message_area_send .input_phantom {
+    width: auto; }
+  .phantom_chat_area {
+    margin-right: 25px;
+    margin-left: 25px; } }
+
+@media (max-width: 506px) {
+  .message_area_send button {
+    width: auto; } }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background-color: #000;
+  font-family: "dogica";
+  letter-spacing: -2.5px;
+  font-size: 12px; }
+
+.img_resp {
+  max-width: 100%;
+  height: auto; }
+
+.btn {
+  border-radius: 7px;
+  border: 0;
+  background-color: #CFCFCF;
+  color: #000; }
+
+.btn-first {
+  height: 42px;
+  width: 100px;
+  padding: 2px 10px; }
+
+.btn-outline-first {
+  background-color: transparent;
+  color: red;
+  border: 1px solid;
+  border-color: #707070;
+  display: flex;
+  padding: 11px 13px;
+  align-items: center;
+  cursor: pointer; }
+  .btn-outline-first img {
+    margin-bottom: 0;
+    margin-left: 10px; }
+
+.dialog_area::-webkit-scrollbar {
+  width: 12px; }
+
+.dialog_area::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(255, 255, 255, 0.3);
+  border-radius: 10px; }
+
+.dialog_area::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(48, 255, 42, 0.31); }
+
+@font-face {
+  font-family: "dogica";
+  src: url("fonts/fonts/dogica.ttf.eot");
+  src: url("fonts/fonts/dogica.ttf.eot?#iefix") format("embedded-opentype"), url("fonts/fonts/dogica.ttf") format("truetype"), url("fonts/fonts/dogica.ttf.svg?#webfont") format("svg");
+  font-weight: normal;
+  font-style: normal; }

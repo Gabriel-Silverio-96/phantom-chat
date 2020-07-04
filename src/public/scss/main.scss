@@ -1,0 +1,10 @@
+//node-sass --watch scss/main.scss css/style.css
+@import '_variables.scss';
+@import '_mixins.scss';
+@import '_login.scss';
+@import '_chat.scss';
+@import '_pattern.scss';
+@import '_scroll.scss';
+
+//Include
+@include fontface("dogica", "fonts/dogica.ttf");

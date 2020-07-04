@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="355" height="89" viewBox="0 0 355 89">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y2="1.188" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1.297" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#15ff0d"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <clipPath id="clip-logo-phantom-chat-2">
+      <rect width="355" height="89"/>
+    </clipPath>
+  </defs>
+  <g id="logo-phantom-chat-2" clip-path="url(#clip-logo-phantom-chat-2)">
+    <g id="Group_12" data-name="Group 12" transform="translate(-511 -255)">
+      <path id="Path_4" data-name="Path 4" d="M-2454.256,543.367" transform="translate(2963.089 -229.068)" fill="url(#linear-gradient)"/>
+      <path id="Path_11" data-name="Path 11" d="M7-49H42v7h7v14H42v7H21V0H7Zm14,7v14H35V-42Zm36.4-7h14v21h14V-49h14V0h-14V-21h-14V0h-14Zm57.4,0h28v7h7V0h-14V-14h-14V0h-14V-42h7Zm7,7v21h14V-42Zm36.4-7h14v7h7v7h7V-49h14V0h-14V-21h-7v-7h-7V0h-14Zm50.4,0h42v7h-14V0h-14V-42h-14ZM266-49h28v7h7V-7h-7V0H266V-7h-7V-42h7Zm7,7V-7h14V-42Zm36.4-7h14v14h7v7h7v-7h7V-49h14V0h-14V-21h-21V0h-14Z" transform="translate(505 306)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_2" data-name="Path 2" d="M9.5-33.25h19v4.75h4.75v4.75h-9.5V-28.5h-9.5V-4.75h9.5V-9.5h9.5v4.75H28.5V0H9.5V-4.75H4.75V-28.5H9.5Zm29.45,0h9.5V-19h9.5V-33.25h9.5V0h-9.5V-14.25h-9.5V0h-9.5Zm38.95,0h19v4.75h4.75V0h-9.5V-9.5h-9.5V0h-9.5V-28.5H77.9Zm4.75,4.75v14.25h9.5V-28.5Zm24.7-4.75h28.5v4.75h-9.5V0h-9.5V-28.5h-9.5Z" transform="translate(617.25 342.875)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

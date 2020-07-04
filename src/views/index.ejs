@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phantom Chat</title>
+    <link rel="shortcut icon" href="img/favicon.png">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="login">
+    <audio autoplay>
+        <source autoplay src="audio/audio-phantom.mp3" type="audio/mpeg">
+    </audio>
+    <div class="phantom_chat">
+        <img src="img/logo-phantom-chat.svg" class="img_resp logo" alt="Logo Phantom chat">
+        <form class="form_login" action="/chat" method="post">
+            <%if(validation.length > 0) {%>
+                <span><%= validation[0].msg%></span>
+            <%}%>
+            <input class="input_phantom" type="text" name="nickname" id="nickname" placeholder="> My nickname is">
+            <button class="btn btn-first" type="submit">Login</button>
+        </form>
+    </div>
+</body>
+</html>

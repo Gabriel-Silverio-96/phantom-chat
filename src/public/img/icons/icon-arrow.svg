@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9" height="5" viewBox="0 0 9 5">
+  <defs>
+    <clipPath id="clip-icon-arrow">
+      <rect width="9" height="5"/>
+    </clipPath>
+  </defs>
+  <g id="icon-arrow" clip-path="url(#clip-icon-arrow)">
+    <g id="Group_13" data-name="Group 13" transform="translate(-1733.818 -676)">
+      <rect id="Rectangle_58" data-name="Rectangle 58" width="1" height="1" transform="translate(1738.818 680) rotate(90)" fill="red"/>
+      <rect id="Rectangle_59" data-name="Rectangle 59" width="1" height="1" transform="translate(1738.818 680) rotate(90)" fill="red"/>
+      <rect id="Rectangle_60" data-name="Rectangle 60" width="1" height="1" transform="translate(1739.818 679) rotate(90)" fill="red"/>
+      <rect id="Rectangle_55" data-name="Rectangle 55" width="1" height="1" transform="translate(1737.818 679) rotate(90)" fill="red"/>
+      <rect id="Rectangle_61" data-name="Rectangle 61" width="1" height="1" transform="translate(1740.818 678) rotate(90)" fill="red"/>
+      <rect id="Rectangle_56" data-name="Rectangle 56" width="1" height="1" transform="translate(1736.818 678) rotate(90)" fill="red"/>
+      <rect id="Rectangle_63" data-name="Rectangle 63" transform="translate(1740.818 678) rotate(90)" fill="red"/>
+      <rect id="Rectangle_57" data-name="Rectangle 57" transform="translate(1735.818 678) rotate(90)" fill="red"/>
+      <rect id="Rectangle_64" data-name="Rectangle 64" width="1" height="1" transform="translate(1741.818 677) rotate(90)" fill="red"/>
+      <rect id="Rectangle_62" data-name="Rectangle 62" width="1" height="1" transform="translate(1735.818 677) rotate(90)" fill="red"/>
+      <rect id="Rectangle_65" data-name="Rectangle 65" width="1" height="1" transform="translate(1742.818 676) rotate(90)" fill="red"/>
+      <rect id="Rectangle_66" data-name="Rectangle 66" width="1" height="1" transform="translate(1734.818 676) rotate(90)" fill="red"/>
+    </g>
+  </g>
+</svg>
